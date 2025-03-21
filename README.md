@@ -141,7 +141,7 @@ Frontend: React (TypeScript), Vite, Tailwind CSS
 ### 🎨 A Little Fun
 
 <div align="center">
-  <img align="center" height="160" src="https://cdn.pixabay.com/animation/2025/02/04/01/20/01-20-14-933_512.gif" />
+  <img align="right" height="160" src="https://cdn.pixabay.com/animation/2025/02/04/01/20/01-20-14-933_512.gif" />
   <br><br>
   <img src="https://raw.githubusercontent.com/Emanuel0428/Emanuel0428/output/snake.svg" alt="Snake animation" />
 </div>
