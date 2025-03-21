@@ -21,33 +21,62 @@
 ### 🛠️ Technologies & Tools
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="40" alt="TypeScript logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C# logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40" alt="Java logo" />
+  <img width="12" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL logo" />
+  <img width="12" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo" />
+  <img width="12" />
+  
+  
 </div>
+
 
 ---
 
 ### 🚀 What I'm Up To
 
-- 🔭 Working on personal projects to sharpen my full-stack development skills.
-- 🌱 Diving deeper into RESTful APIs, cloud computing, and software architecture.
-- 💻 Occasionally contributing to open-source projects.
-- 🎯 Aiming to build impactful, scalable, and user-friendly applications.
+✨ Building & Learning
+
+💡 Crafting personal projects to refine my full-stack development skills.
+
+☁️ Exploring New Horizons
+
+🚀 Deep diving into RESTful APIs, cloud computing, and software architecture.
+
+🤝 Giving Back
+
+🌍 Contributing to open-source projects whenever I can.
+
+🎯 Big Goals, Bigger Impact
+
+🔥 Striving to create scalable, impactful, and user-friendly applications.
 
 ---
 
@@ -55,12 +84,55 @@
 
 <p align="left">Here’s a glimpse of what I’ve been building. For a full showcase, visit my <a href="https://portfolio-project-eta-seven.vercel.app/" target="_blank">portfolio</a>!</p>
 
-- **[Portfolio Project](https://github.com/Emanuel0428/Portfolio-Project)**  
-  My personal portfolio built with React and deployed on Vercel. A sleek, modern showcase of my skills and projects.  
-- **[Calculator](https://github.com/Emanuel0428/Calculator)**  
-  A functional calculator app created with JavaScript, HTML, and CSS to practice frontend development and UI design.  
-- **[GitHub Profile README](https://github.com/Emanuel0428/Emanuel0428)**  
-  A dynamic, animated README reflecting my coding journey—complete with stats and a fun snake game!  
+
+- **[🌐 Personal Portfolio](https://github.com/Emanuel0428/Portfolio-Project)**
+
+A responsive and modern personal portfolio website showcasing my projects, skills, and experience.
+
+🔹 Tech Stack: Frontend: React (TypeScript), Vite, Tailwind CSS)
+
+🔹 Key Features: 
+
+✔️ Clean and minimalist design ✔️ Fully responsive layout ✔️ Fast load times with optimized performance
+
+  
+- **[🛒 Mercados Mi Punto](https://github.com/Emanuel0428/mercados-mipunto-project)**  
+
+A modern e-commerce web app for high-quality fresh products. Features include a shopping cart, dark mode, user authentication, and an admin panel (in progress).
+
+🔹 Tech Stack:
+
+Frontend: React (TypeScript), Tailwind CSS, Zustand
+Backend: Node.js (Express), SQLite, JWT authentication
+
+🔹 Key Features:
+
+✔️ Browse products by category
+✔️ Add to cart & checkout
+✔️ User registration & login
+✔️ User dashboard & admin panel (WIP)
+
+
+- **[🌫️ Outside™ – Vape & Urban Wear Store](https://github.com/Emanuel0428/outside-project)**
+  
+A sleek and modern e-commerce platform for vaporizers and urban fashion, featuring a dark-themed, responsive design for a seamless experience on any device.
+
+🔹 Tech Stack:
+
+Frontend: React (TypeScript), Vite, Tailwind CSS
+
+🔹 Key Features:
+
+✔️ Stylish
+✔️ Fully responsive design
+✔️ Optimized for performance
+✔️ Browse products by category
+✔️ Add to cart & checkout
+✔️ User registration & login
+✔️ User dashboard & admin panel (WIP)
+
+
+
 
 <p align="left">Want to see more? Check out my <a href="https://github.com/Emanuel0428?tab=repositories" target="_blank">GitHub repositories</a>!</p>
 
