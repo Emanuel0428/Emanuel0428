@@ -4,7 +4,7 @@
 
 ---
 
-<p align="left">I'm a passionate coder and problem-solver, currently studying Computer Science in Colombia. I love building projects that blend creativity and functionality, with a focus on web development, backend technologies, and database management. From crafting sleek frontends with React to designing robust backends with Node.js, my goal is to create scalable, user-friendly solutions while constantly learning new tools and techniques.</p>
+<p align="left">I'm a passionate coder and problem-solver, currently studying Computer Science in Colombia. I love building projects that blend creativity and functionality, with a focus on web development, backend technologies, and database management. From crafting sleek frontends with React to designing robust backends with Express, my goal is to create scalable, user-friendly solutions while constantly learning new tools and techniques.</p>
 
 ---
 
