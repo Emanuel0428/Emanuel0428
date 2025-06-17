@@ -1,10 +1,13 @@
 <h1 align="center">👋 Hi, I'm Emanuel!</h1>
 <img align="right" height="100" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDB5Y3E2Nmt0bGsxdTUzcTVnbnMxczlpNzJyZ2h0M3hjb21vaGhlNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3o6gE51uXycrKW6D84/giphy.gif"/>
-<h3 align="center">Computer Science Student | Full-Stack Enthusiast | Colombia 🇨🇴</h3>
+<h3 align="center">Full-Stack Enthusiast | Crafting innovative web solutions | Computer Science Student | 🇨🇴</h3>
 
 ---
 
-<p align="left">I'm a passionate coder and problem-solver, currently studying Computer Science in Colombia. I love building projects that blend creativity and functionality, with a focus on web development, backend technologies, and database management. From crafting sleek frontends with React to designing robust backends with Express, my goal is to create scalable, user-friendly solutions while constantly learning new tools and techniques.</p>
+<p align="left">I'm a passionate coder and problem-solver, currently studying Computer Science in Colombia. I specialize in building projects that seamlessly blend creative design with robust functionality with a focus on web development, backend technologies, and database management. From crafting sleek frontends with React to designing robust backends with Express, my goal is to create scalable, user-friendly solutions while constantly learning new tools and techniques.
+<br>
+I'm driven by the challenge of turning complex ideas into intuitive, high-performance web applications, from the elegant frontend with React to the robust backend with Express.
+</p>
 
 ---
 
@@ -27,17 +30,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo" />
   <img width="12" />
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
-  <img width="12" />
-  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="40" alt="TypeScript logo" />
   <img width="12" />
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" />
-  <img width="12" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" />
-  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" height="40" alt="Supabase logo" />
+  <img width ="12" />
+          
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
   <img width="12" />
@@ -62,75 +60,68 @@
 
 ### 🚀 What I'm Up To
 
-✨ Building & Learning
+✨ Building & Learning.
 
 💡 Crafting personal projects to refine my full-stack development skills.
 
-☁️ Exploring New Horizons
+☁️ Exploring New Horizons.
 
 🚀 Deep diving into RESTful APIs, cloud computing, and software architecture.
 
-🤝 Giving Back
+🤝 Giving Back.
 
 🌍 Contributing to open-source projects whenever I can.
 
-🎯 Big Goals, Bigger Impact
+🎯 Big Goals, Bigger Impact.
 
-🔥 Striving to create scalable, impactful, and user-friendly applications.
+🔥 Striving to create scalable, impactful, and user-friendly applications that solve real-world problems.
 
 ---
 
 ### 💻 My Projects
 
-<p align="left">Here’s a glimpse of what I’ve been building. For a full showcase, visit my <a href="https://portfolio-project-eta-seven.vercel.app/" target="_blank">portfolio</a>!</p>
+<p align="left">Here’s a glimpse of what I’ve been building. For a full showcase, visit my <a href="https://ema-portafolio.vercel.app/" target="_blank">portfolio</a>!</p>
 
 
-- **[🌐 Personal Portfolio](https://github.com/Emanuel0428/Portfolio-Project)**
+🧠 FlowForgeAI
+An innovative AI-powered assistant designed to streamline workflows and boost productivity. This project leverages OpenAI's capabilities to provide intelligent support for various tasks, from content generation to code explanation.
+🔹 Tech Stack: React (Vite), TypeScript, Tailwind CSS, OpenAI API
+🔹 Highlights:
+✔️ Intuitive UI for engaging with AI functionalities
+✔️ Integrates powerful OpenAI models for smart responses
+✔️ Features AI-driven content creation, code explanation, and image generation
+✔️ Responsive and modern design for seamless interaction
 
-A responsive and modern personal portfolio website showcasing my projects, skills, and experience.
 
-🔹 Tech Stack: Frontend: React (TypeScript), Vite, Tailwind CSS)
+💪 All-in-one Fitness App
+A comprehensive fitness application designed to help users track and manage their workout routines. It provides a user-friendly interface to log exercises, monitor progress, and achieve fitness goals effectively.
+🔹 Tech Stack: React (TypeScript), Tailwind CSS
+🔹 Highlights:
+✔️ Personalized exercise logging and progress tracking
+✔️ Clean and intuitive user interface
+✔️ Responsive design for training on any device
 
-🔹 Key Features: 
 
-✔️ Clean and minimalist design ✔️ Fully responsive layout ✔️ Fast load times with optimized performance
+🌫️ Outside™ – Vape & Urban Wear Store
+A sleek, dark-themed e-commerce platform offering an immersive shopping experience for vaporizers and urban fashion. It focuses on creating a unified user experience with a contemporary design and full adaptability.
+🔹 Tech Stack: Frontend: React (TypeScript), Vite, Tailwind CSS
+🔹 Highlights:
+✔️ Stylish and optimized design for fluid navigation
+✔️ Consistent user experience across all devices
+✔️ Key e-commerce functionalities like Browse, cart, and authentication
+✔️ Admin panel in progress for inventory and user management
 
-  
-- **[🛒 Mercados Mi Punto](https://github.com/Emanuel0428/mercados-mipunto-project)**  
 
-A modern e-commerce web app for high-quality fresh products. Features include a shopping cart, dark mode, user authentication, and an admin panel (in progress).
-
+🛒 Mercados Mi Punto
+An e-commerce web application crafted for selling high-quality fresh products. This project allowed me to dive deep into full-stack architecture, from user management to building a robust purchasing flow.
 🔹 Tech Stack:
-
 Frontend: React (TypeScript), Tailwind CSS, Zustand
-Backend: Node.js (Express), SQLite, JWT authentication
-
-🔹 Key Features:
-
-✔️ Browse products by category
-✔️ Add to cart & checkout
-✔️ User registration & login
-✔️ User dashboard & admin panel (WIP)
-
-
-- **[🌫️ Outside™ – Vape & Urban Wear Store](https://github.com/Emanuel0428/outside-project)**
-  
-A sleek and modern e-commerce platform for vaporizers and urban fashion, featuring a dark-themed, responsive design for a seamless experience on any device.
-
-🔹 Tech Stack:
-
-Frontend: React (TypeScript), Vite, Tailwind CSS
-
-🔹 Key Features:
-
-✔️ Stylish
-✔️ Fully responsive design
-✔️ Optimized for performance
-✔️ Browse products by category
-✔️ Add to cart & checkout
-✔️ User registration & login
-✔️ User dashboard & admin panel (WIP)
-
+Backend: Node.js (Express), SQLite, JWT Authentication
+🔹 Highlights:
+✔️ Intuitive product category navigation
+✔️ Fully functional shopping cart and smooth checkout process
+✔️ Secure user authentication with JWT
+✔️ Admin panel under development for product and order management
 
 
 
