@@ -83,44 +83,71 @@ I'm driven by the challenge of turning complex ideas into intuitive, high-perfor
 <p align="left">Here’s a glimpse of what I’ve been building. For a full showcase, visit my <a href="https://ema-portafolio.vercel.app/" target="_blank">portfolio</a>!</p>
 
 
-🧠 FlowForgeAI
+- **[🧠 FlowForgeAI](https://github.com/Emanuel0428/FlowForgeAI)**
+
 An innovative AI-powered assistant designed to streamline workflows and boost productivity. This project leverages OpenAI's capabilities to provide intelligent support for various tasks, from content generation to code explanation.
+
 🔹 Tech Stack: React (Vite), TypeScript, Tailwind CSS, OpenAI API
+
 🔹 Highlights:
+
 ✔️ Intuitive UI for engaging with AI functionalities
+
 ✔️ Integrates powerful OpenAI models for smart responses
+
 ✔️ Features AI-driven content creation, code explanation, and image generation
+
 ✔️ Responsive and modern design for seamless interaction
 
 
-💪 All-in-one Fitness App
+- **[💪 All-in-one Fitness App](https://github.com/Emanuel0428/all-in-one-fitness-app)**
+  
 A comprehensive fitness application designed to help users track and manage their workout routines. It provides a user-friendly interface to log exercises, monitor progress, and achieve fitness goals effectively.
+
 🔹 Tech Stack: React (TypeScript), Tailwind CSS
+
 🔹 Highlights:
+
 ✔️ Personalized exercise logging and progress tracking
+
 ✔️ Clean and intuitive user interface
+
 ✔️ Responsive design for training on any device
 
 
-🌫️ Outside™ – Vape & Urban Wear Store
+- **[🌫️ Outside™ – Vape & Urban Wear Store](https://github.com/Emanuel0428/outside-project)**
 A sleek, dark-themed e-commerce platform offering an immersive shopping experience for vaporizers and urban fashion. It focuses on creating a unified user experience with a contemporary design and full adaptability.
+
 🔹 Tech Stack: Frontend: React (TypeScript), Vite, Tailwind CSS
+
 🔹 Highlights:
+
 ✔️ Stylish and optimized design for fluid navigation
+
 ✔️ Consistent user experience across all devices
+
 ✔️ Key e-commerce functionalities like Browse, cart, and authentication
+
 ✔️ Admin panel in progress for inventory and user management
 
 
-🛒 Mercados Mi Punto
+- **[🛒 Mercados Mi Punto](https://github.com/Emanuel0428/mercados-mipunto-project)**
+
 An e-commerce web application crafted for selling high-quality fresh products. This project allowed me to dive deep into full-stack architecture, from user management to building a robust purchasing flow.
+
 🔹 Tech Stack:
+
 Frontend: React (TypeScript), Tailwind CSS, Zustand
 Backend: Node.js (Express), SQLite, JWT Authentication
+
 🔹 Highlights:
+
 ✔️ Intuitive product category navigation
+
 ✔️ Fully functional shopping cart and smooth checkout process
+
 ✔️ Secure user authentication with JWT
+
 ✔️ Admin panel under development for product and order management
 
 
