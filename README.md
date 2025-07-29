@@ -42,9 +42,6 @@ I'm driven by the challenge of turning complex ideas into intuitive, high-perfor
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C# logo" />
   <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40" alt="Java logo" />
-  <img width="12" />
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL logo" />
   <img width="12" />
@@ -131,27 +128,6 @@ A sleek, dark-themed e-commerce platform offering an immersive shopping experien
 ✔️ Admin panel in progress for inventory and user management
 
 
-- **[🛒 Mercados Mi Punto](https://github.com/Emanuel0428/mercados-mipunto-project)**
-
-An e-commerce web application crafted for selling high-quality fresh products. This project allowed me to dive deep into full-stack architecture, from user management to building a robust purchasing flow.
-
-🔹 Tech Stack:
-
-Frontend: React (TypeScript), Tailwind CSS, Zustand
-Backend: Node.js (Express), SQLite, JWT Authentication
-
-🔹 Highlights:
-
-✔️ Intuitive product category navigation
-
-✔️ Fully functional shopping cart and smooth checkout process
-
-✔️ Secure user authentication with JWT
-
-✔️ Admin panel under development for product and order management
-
-
-
 <p align="left">Want to see more? Check out my <a href="https://github.com/Emanuel0428?tab=repositories" target="_blank">GitHub repositories</a>!</p>
 
 ---
@@ -172,7 +148,7 @@ Backend: Node.js (Express), SQLite, JWT Authentication
   <a href="https://www.linkedin.com/in/emanuel-londo%C3%B1o-osorio-835315174/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
-  <a href="https://portfolio-project-eta-seven.vercel.app/" target="_blank">
+  <a href="https://ema-portafolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio logo" />
   </a>
 </div>
@@ -180,5 +156,5 @@ Backend: Node.js (Express), SQLite, JWT Authentication
 ---
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Emanuel0428/count.svg?" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Emanue0428&base=300&abbreviated=true&color=blue&label=Hi!!" alt="Profile views" />
 </div>
