@@ -15,7 +15,7 @@ I'm driven by the challenge of turning complex ideas into intuitive, high-perfor
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Emanuel0428&theme=blueberry&show_icons=true&hide_border=true&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Emanuel0428&theme=blueberry&hide_border=true" height="150" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=Emanuel0428&theme=blueberry&mode=weekly&hide_border=true" height="150" alt="streak graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emanuel0428&theme=blueberry&show_icons=true&hide_border=true&layout=compact" height="150" alt="languages graph" />
 </div>
 
