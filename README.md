@@ -4,9 +4,7 @@
 
 ---
 
-<p align="left">I'm a passionate coder and problem-solver, currently studying Computer Science in Colombia. I specialize in building projects that seamlessly blend creative design with robust functionality with a focus on web development, backend technologies, and database management. From crafting sleek frontends with React to designing robust backends with Express, my goal is to create scalable, user-friendly solutions while constantly learning new tools and techniques.
-<br>
-I'm driven by the challenge of turning complex ideas into intuitive, high-performance web applications, from the elegant frontend with React to the robust backend with Express.
+<p align="left">I’m a Computer Science student from Colombia, passionate about coding and problem-solving. My focus is on web development, backend technologies, and database management. I work on everything from sleek interfaces with React to robust backends with Express, aiming to build scalable, intuitive, and high-performance solutions while continuously learning new tools and techniques.
 </p>
 
 ---
@@ -57,76 +55,48 @@ I'm driven by the challenge of turning complex ideas into intuitive, high-perfor
 
 ### 🚀 What I'm Up To
 
-✨ Building & Learning.
+✨ Building & Growing  
+Developing personal projects to strengthen my full-stack skills.  
 
-💡 Crafting personal projects to refine my full-stack development skills.
+☁️ Exploring New Horizons  
+Focusing on RESTful APIs, cloud computing, and software architecture.  
 
-☁️ Exploring New Horizons.
+🤝 Contributing Back  
+Supporting open-source projects whenever possible.  
 
-🚀 Deep diving into RESTful APIs, cloud computing, and software architecture.
-
-🤝 Giving Back.
-
-🌍 Contributing to open-source projects whenever I can.
-
-🎯 Big Goals, Bigger Impact.
-
-🔥 Striving to create scalable, impactful, and user-friendly applications that solve real-world problems.
+🎯 Driving Impact  
+Aiming to build scalable, efficient, and user-friendly applications that address real-world challenges.  
 
 ---
 
 ### 💻 My Projects
 
-<p align="left">Here’s a glimpse of what I’ve been building. For a full showcase, visit my <a href="https://ema-portafolio.vercel.app/" target="_blank">portfolio</a>!</p>
+<p align="left">Here’s a selection of my work. For the full showcase, visit my <a href="https://ema-portafolio.vercel.app/" target="_blank">portfolio</a>!</p>
 
+- **[🧠 FlowForgeAI](https://github.com/Emanuel0428/FlowForgeAI)**  
+AI-powered assistant designed to streamline workflows and enhance productivity.  
+🔹 **Tech Stack:** React (Vite), TypeScript, Tailwind CSS, OpenAI API  
+🔹 **Highlights:**  
+✔️ Smart AI-driven content creation and code explanation  
+✔️ Modern, responsive interface for seamless interaction  
+✔️ Integration of OpenAI models for intelligent responses  
 
-- **[🧠 FlowForgeAI](https://github.com/Emanuel0428/FlowForgeAI)**
+- **[💪 All-in-one Fitness App](https://github.com/Emanuel0428/all-in-one-fitness-app)**  
+Comprehensive fitness app to log exercises, track progress, and support training goals.  
+🔹 **Tech Stack:** React (TypeScript), Tailwind CSS  
+🔹 **Highlights:**  
+✔️ Personalized progress tracking  
+✔️ Clean and intuitive UI  
+✔️ Responsive design for all devices  
 
-An innovative AI-powered assistant designed to streamline workflows and boost productivity. This project leverages OpenAI's capabilities to provide intelligent support for various tasks, from content generation to code explanation.
-
-🔹 Tech Stack: React (Vite), TypeScript, Tailwind CSS, OpenAI API
-
-🔹 Highlights:
-
-✔️ Intuitive UI for engaging with AI functionalities
-
-✔️ Integrates powerful OpenAI models for smart responses
-
-✔️ Features AI-driven content creation, code explanation, and image generation
-
-✔️ Responsive and modern design for seamless interaction
-
-
-- **[💪 All-in-one Fitness App](https://github.com/Emanuel0428/all-in-one-fitness-app)**
-  
-A comprehensive fitness application designed to help users track and manage their workout routines. It provides a user-friendly interface to log exercises, monitor progress, and achieve fitness goals effectively.
-
-🔹 Tech Stack: React (TypeScript), Tailwind CSS
-
-🔹 Highlights:
-
-✔️ Personalized exercise logging and progress tracking
-
-✔️ Clean and intuitive user interface
-
-✔️ Responsive design for training on any device
-
-
-- **[🌫️ Outside™ – Vape & Urban Wear Store](https://github.com/Emanuel0428/outside-project)**
-A sleek, dark-themed e-commerce platform offering an immersive shopping experience for vaporizers and urban fashion. It focuses on creating a unified user experience with a contemporary design and full adaptability.
-
-🔹 Tech Stack: Frontend: React (TypeScript), Vite, Tailwind CSS
-
-🔹 Highlights:
-
-✔️ Stylish and optimized design for fluid navigation
-
-✔️ Consistent user experience across all devices
-
-✔️ Key e-commerce functionalities like Browse, cart, and authentication
-
-✔️ Admin panel in progress for inventory and user management
-
+- **[🌫️ Outside™ – Vape & Urban Wear Store](https://github.com/Emanuel0428/outside-project)**  
+Dark-themed e-commerce platform for vaporizers and urban fashion, offering an immersive shopping experience.  
+🔹 **Tech Stack:** React (TypeScript), Vite, Tailwind CSS  
+🔹 **Highlights:**  
+✔️ Stylish and optimized navigation  
+✔️ Full e-commerce functionality (browse, cart, authentication)  
+✔️ Responsive UI across devices  
+✔️ Admin panel in development for inventory and user management  
 
 <p align="left">Want to see more? Check out my <a href="https://github.com/Emanuel0428?tab=repositories" target="_blank">GitHub repositories</a>!</p>
 
