@@ -70,7 +70,7 @@ Aiming to build scalable, efficient, and user-friendly applications that address
 
 ### 💻 My Projects
 
-<p align="left">Here’s a selection of my work. For the full showcase, visit my <a href="https://ema-portafolio.vercel.app/" target="_blank">portfolio</a>!</p>
+<p align="left">Here’s a selection of my work. For the full showcase, visit my <a href="https://www.elo04.dev/" target="_blank">portfolio</a>!</p>
 
 - **[🧠 FlowForgeAI](https://github.com/Emanuel0428/FlowForgeAI)**  
 AI-powered assistant designed to streamline workflows and enhance productivity.  
