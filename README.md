@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Emanuel!</h1>
+<h1 align="center">Hi, I'm Emanuel!</h1>
 <img align="right" height="100" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDB5Y3E2Nmt0bGsxdTUzcTVnbnMxczlpNzJyZ2h0M3hjb21vaGhlNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3o6gE51uXycrKW6D84/giphy.gif"/>
 <h3 align="center">Full-Stack Enthusiast | Crafting innovative web solutions | Computer Science Student | 🇨🇴</h3>
 
@@ -9,16 +9,16 @@
 
 ---
 
-### 📊 My GitHub Stats
+### My GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Emanuel0428&theme=blueberry&show_icons=true&hide_border=true&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emanuel0428&theme=blueberry&show_icons=true&hide_border=true&layout=compact" height="150" alt="languages graph" />
+  <img src="https://github-stats-cards-six.vercel.app/stats?username=Emanuel0428" height="150" alt="stats graph" />
+  <img src="https://github-stats-cards-six.vercel.app/top-languages?username=Emanuel0428" height="150" alt="languages graph" />
 </div>
 
 ---
 
-### 🛠️ Technologies & Tools
+### Technologies & Tools
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js logo" />
@@ -52,27 +52,27 @@
 
 ---
 
-### 🚀 What I'm Up To
+### What I'm Up To
 
-✨ Building & Growing  
+Building & Growing  
 Developing personal projects to strengthen my full-stack skills.  
 
-☁️ Exploring New Horizons  
+Exploring New Horizons  
 Focusing on RESTful APIs, cloud computing, and software architecture.  
 
-🤝 Contributing Back  
+Contributing Back  
 Supporting open-source projects whenever possible.  
 
-🎯 Driving Impact  
+Driving Impact  
 Aiming to build scalable, efficient, and user-friendly applications that address real-world challenges.  
 
 ---
 
-### 💻 My Projects
+### My Projects
 
 <p align="left">Here’s a selection of my work. For the full showcase, visit my <a href="https://www.elo04.dev/" target="_blank">portfolio</a>!</p>
 
-- **[🧠 FlowForgeAI](https://github.com/Emanuel0428/FlowForgeAI)**  
+- **[FlowForgeAI](https://github.com/Emanuel0428/FlowForgeAI)**  
 AI-powered assistant designed to streamline workflows and enhance productivity.  
 🔹 **Tech Stack:** React (Vite), TypeScript, Tailwind CSS, OpenAI API  
 🔹 **Highlights:**  
@@ -80,7 +80,7 @@ AI-powered assistant designed to streamline workflows and enhance productivity.
 ✔️ Modern, responsive interface for seamless interaction  
 ✔️ Integration of OpenAI models for intelligent responses  
 
-- **[💪 All-in-one Fitness App](https://github.com/Emanuel0428/all-in-one-fitness-app)**  
+- **[All-in-one Fitness App](https://github.com/Emanuel0428/all-in-one-fitness-app)**  
 Comprehensive fitness app to log exercises, track progress, and support training goals.  
 🔹 **Tech Stack:** React (TypeScript), Tailwind CSS  
 🔹 **Highlights:**  
@@ -88,7 +88,7 @@ Comprehensive fitness app to log exercises, track progress, and support training
 ✔️ Clean and intuitive UI  
 ✔️ Responsive design for all devices  
 
-- **[🌫️ Outside™ – Vape & Urban Wear Store](https://github.com/Emanuel0428/outside-project)**  
+- **[Outside™ – Vape & Urban Wear Store](https://github.com/Emanuel0428/outside-project)**  
 Dark-themed e-commerce platform for vaporizers and urban fashion, offering an immersive shopping experience.  
 🔹 **Tech Stack:** React (TypeScript), Vite, Tailwind CSS  
 🔹 **Highlights:**  
@@ -101,7 +101,7 @@ Dark-themed e-commerce platform for vaporizers and urban fashion, offering an im
 
 ---
 
-### 🎨 A Little Fun
+### A Little Fun
 
 <div align="center">
   <img align="right" height="160" src="https://cdn.pixabay.com/animation/2025/02/04/01/20/01-20-14-933_512.gif" />
@@ -111,7 +111,7 @@ Dark-themed e-commerce platform for vaporizers and urban fashion, offering an im
 
 ---
 
-### 📬 Connect With Me
+### Connect With Me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/emanuel-londo%C3%B1o-osorio-835315174/" target="_blank">
