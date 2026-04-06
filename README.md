@@ -70,32 +70,7 @@ Aiming to build scalable, efficient, and user-friendly applications that address
 
 ### My Projects
 
-<p align="left">Here’s a selection of my work. For the full showcase, visit my <a href="https://www.elo04.dev/" target="_blank">portfolio</a>!</p>
-
-- **[FlowForgeAI](https://github.com/Emanuel0428/FlowForgeAI)**  
-AI-powered assistant designed to streamline workflows and enhance productivity.  
-🔹 **Tech Stack:** React (Vite), TypeScript, Tailwind CSS, OpenAI API  
-🔹 **Highlights:**  
-✔️ Smart AI-driven content creation and code explanation  
-✔️ Modern, responsive interface for seamless interaction  
-✔️ Integration of OpenAI models for intelligent responses  
-
-- **[All-in-one Fitness App](https://github.com/Emanuel0428/all-in-one-fitness-app)**  
-Comprehensive fitness app to log exercises, track progress, and support training goals.  
-🔹 **Tech Stack:** React (TypeScript), Tailwind CSS  
-🔹 **Highlights:**  
-✔️ Personalized progress tracking  
-✔️ Clean and intuitive UI  
-✔️ Responsive design for all devices  
-
-- **[Outside™ – Vape & Urban Wear Store](https://github.com/Emanuel0428/outside-project)**  
-Dark-themed e-commerce platform for vaporizers and urban fashion, offering an immersive shopping experience.  
-🔹 **Tech Stack:** React (TypeScript), Vite, Tailwind CSS  
-🔹 **Highlights:**  
-✔️ Stylish and optimized navigation  
-✔️ Full e-commerce functionality (browse, cart, authentication)  
-✔️ Responsive UI across devices  
-✔️ Admin panel in development for inventory and user management  
+<p align="left">Visit my <a href="https://www.elo04.dev/" target="_blank">portfolio</a>!</p>
 
 <p align="left">Want to see more? Check out my <a href="https://github.com/Emanuel0428?tab=repositories" target="_blank">GitHub repositories</a>!</p>
 
