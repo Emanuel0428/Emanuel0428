@@ -12,8 +12,8 @@
 ### My GitHub Stats
 
 <div align="center">
-  <img src="https://github-stats-cards-six.vercel.app/stats?username=Emanuel0428&theme=terminal&v=3" height="150" alt="stats graph" />
-  <img src="https://github-stats-cards-six.vercel.app/top-languages?username=Emanuel0428&theme=terminal&v=3" height="150" alt="languages graph" />
+  <img src="https://github-stats-cards-six.vercel.app/stats?username=Emanuel0428&theme=terminal&v=4" height="150" alt="stats graph" />
+  <img src="https://github-stats-cards-six.vercel.app/top-languages?username=Emanuel0428&theme=terminal&v=4" height="150" alt="languages graph" />
 </div>
 
 ---
