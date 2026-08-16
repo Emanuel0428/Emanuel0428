@@ -12,8 +12,8 @@
 ### My GitHub Stats
 
 <div align="center">
-  <img src="https://github-stats-cards-six.vercel.app/stats?username=Emanuel0428&theme=vaporwave&includePrivate=true&includeForks=true&bg=https%3A%2F%2Fblogger.googleusercontent.com%2Fimg%2Fa%2FAVvXsEhfCiil-BpkiLCRnMETnGL2EVoJI0UfQOFWQ6mM_W_v5hVf86JS023hVg1bmg5bttmF43x53buiw-cGFsfX2jDUpWGp31ZLIQwKNQ_FxzVn7SzBAR7o8szJCUsQzMyiTeubb_Oui_JvGlwCWo-uNOJEkyd9gksrVFrKTSnLII-yrPxqT8v94OQXsqw-HJU&scrim=0" height="200" alt="stats graph" />
-  <img src="https://github-stats-cards-six.vercel.app/top-languages?username=Emanuel0428&theme=vaporwave&includePrivate=true&includeForks=true&langLimit=5&bg=https%3A%2F%2Fi.pinimg.com%2F1200x%2F02%2F51%2F63%2F025163e63ffd24ca90e9a0080a0bf51c.jpg&scrim=0" height="200" alt="languages graph" />
+  <img src="https://github-stats-cards-six.vercel.app/stats?username=Emanuel0428&theme=vaporwave&includePrivate=true&includeForks=true&bg=https%3A%2F%2Fi.pinimg.com%2F1200x%2F1d%2F59%2F8b%2F1d598bce71cdcaec38d4da698230587f.jpg&scrim=0" height="220" alt="stats graph" />
+  <img src="https://github-stats-cards-six.vercel.app/top-languages?username=Emanuel0428&theme=brutalist&includePrivate=true&includeForks=true&langLimit=5&halo=on&haloWidth=6&titleColor=%23000000&textColor=%23000000&mutedColor=%23000000&accentColor=%23ededed&iconColor=%23fcfcfc&bg=https%3A%2F%2Fi.pinimg.com%2F736x%2F7e%2F94%2Ff6%2F7e94f6d3fae58ce48514a098429eb77c.jpg&scrim=0" height="220" alt="languages graph" />
 
   _Built with my own [github-stats-cards](https://github-stats-cards-six.vercel.app/)_
 
