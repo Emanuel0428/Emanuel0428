@@ -12,8 +12,8 @@
 ### My GitHub Stats
 
 <div align="center">
-  <img src="https://github-stats-cards-six.vercel.app/stats?username=Emanuel0428&theme=vaporwave&includePrivate=true&includeForks=true&bg=https%3A%2F%2Fblogger.googleusercontent.com%2Fimg%2Fa%2FAVvXsEhfCiil-BpkiLCRnMETnGL2EVoJI0UfQOFWQ6mM_W_v5hVf86JS023hVg1bmg5bttmF43x53buiw-cGFsfX2jDUpWGp31ZLIQwKNQ_FxzVn7SzBAR7o8szJCUsQzMyiTeubb_Oui_JvGlwCWo-uNOJEkyd9gksrVFrKTSnLII-yrPxqT8v94OQXsqw-HJU&scrim=0" height="250" alt="stats graph" />
-  <img src="https://github-stats-cards-six.vercel.app/top-languages?username=Emanuel0428&theme=vaporwave&includePrivate=true&includeForks=true&langLimit=5&bg=https%3A%2F%2Fi.pinimg.com%2F1200x%2F02%2F51%2F63%2F025163e63ffd24ca90e9a0080a0bf51c.jpg&scrim=0" height="250" alt="languages graph" />
+  <img src="https://github-stats-cards-six.vercel.app/stats?username=Emanuel0428&theme=vaporwave&includePrivate=true&includeForks=true&bg=https%3A%2F%2Fblogger.googleusercontent.com%2Fimg%2Fa%2FAVvXsEhfCiil-BpkiLCRnMETnGL2EVoJI0UfQOFWQ6mM_W_v5hVf86JS023hVg1bmg5bttmF43x53buiw-cGFsfX2jDUpWGp31ZLIQwKNQ_FxzVn7SzBAR7o8szJCUsQzMyiTeubb_Oui_JvGlwCWo-uNOJEkyd9gksrVFrKTSnLII-yrPxqT8v94OQXsqw-HJU&scrim=0" height="200" alt="stats graph" />
+  <img src="https://github-stats-cards-six.vercel.app/top-languages?username=Emanuel0428&theme=vaporwave&includePrivate=true&includeForks=true&langLimit=5&bg=https%3A%2F%2Fi.pinimg.com%2F1200x%2F02%2F51%2F63%2F025163e63ffd24ca90e9a0080a0bf51c.jpg&scrim=0" height="200" alt="languages graph" />
 </div>
 
 ---
