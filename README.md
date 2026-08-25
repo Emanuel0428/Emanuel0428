@@ -31,30 +31,11 @@ _Built with [dano796/github-stack-sphere](https://github.com/dano796/github-stac
 
 </div>
 
-
----
-
-### What I'm Up To
-
-Building & Growing  
-Developing personal projects to strengthen my full-stack skills.  
-
-Exploring New Horizons  
-Focusing on RESTful APIs, cloud computing, and software architecture.  
-
-Contributing Back  
-Supporting open-source projects whenever possible.  
-
-Driving Impact  
-Aiming to build scalable, efficient, and user-friendly applications that address real-world challenges.  
-
 ---
 
 ### My Projects
 
-<p align="left">Visit my <a href="https://www.elo04.dev/" target="_blank">portfolio</a>!</p>
-
-<p align="left">Want to see more? Check out my <a href="https://github.com/Emanuel0428?tab=repositories" target="_blank">GitHub repositories</a>!</p>
+<p align="left">Visit my <a href="https://www.elo04.dev/" target="_blank">portfolio</a></p>
 
 ---
 
