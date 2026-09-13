@@ -2,7 +2,7 @@ name: Generate snake animation
 
 on:
   schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
+    - cron: "0 */12 * * *"
 
   workflow_dispatch:
 
@@ -24,6 +24,13 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: dist/snake.svg?palette=github-dark
 
+      - name: generate platformer.svg
+        uses: Emanuel0428/contrib-arcade@v1
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/platformer-dark.svg?game=platformer&palette=github-dark
+            dist/platformer-light.svg?game=platformer&palette=github-light
 
       - name: push snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
