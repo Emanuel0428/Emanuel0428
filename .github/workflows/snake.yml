@@ -24,13 +24,13 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: dist/snake.svg?palette=github-dark
 
-      - name: generate invaders.svg
+      - name: generate blocks.svg
         uses: Emanuel0428/contrib-arcade@v1
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/invaders-dark.svg?game=invaders&palette=github-dark
-            dist/invaders-light.svg?game=invaders&palette=github-light
+            dist/blocks-dark.svg?game=blocks&palette=github-dark
+            dist/blocks-light.svg?game=blocks&palette=github-light
 
       - name: push snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
