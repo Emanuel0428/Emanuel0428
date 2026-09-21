@@ -45,8 +45,8 @@ _Built with [dano796/github-stack-sphere](https://github.com/dano796/github-stac
   <img align="right" height="160" src="https://cdn.pixabay.com/animation/2025/02/04/01/20/01-20-14-933_512.gif" />
   <br><br>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Emanuel0428/Emanuel0428/output/platformer-dark.svg">
-    <img src="https://raw.githubusercontent.com/Emanuel0428/Emanuel0428/output/platformer-light.svg" alt="Platformer animation made from my contributions" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Emanuel0428/Emanuel0428/output/invaders-dark.svg">
+    <img src="https://raw.githubusercontent.com/Emanuel0428/Emanuel0428/output/invaders-light.svg" alt="Invaders animation made from my contributions" />
   </picture>
 
   _Built with my own [contrib-arcade](https://github.com/Emanuel0428/contrib-arcade)_
