@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Emanuel!</h1>
 <img align="right" height="100" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDB5Y3E2Nmt0bGsxdTUzcTVnbnMxczlpNzJyZ2h0M3hjb21vaGhlNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3o6gE51uXycrKW6D84/giphy.gif"/>
-<h3 align="center">Full-Stack Enthusiast | Crafting innovative web solutions | Computer Science Student | 🇨🇴</h3>
+<h3 align="center">Full-Stack Dev | Crafting innovative web solutions | Computer Science Student | 🇨🇴</h3>
 
 ---
 
